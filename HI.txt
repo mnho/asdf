@@ -6,6 +6,9 @@
 2. View
 3. Template (user interface)
 
+
+HI
+
 Welcome Page:
 1. Make a Request
 2. Search for Projects
