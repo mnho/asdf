@@ -1,1 +1,3 @@
-hi
+1. Model (database/grabbing data from the user)
+2. View
+3. Template (user interface)
