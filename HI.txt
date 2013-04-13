@@ -2,4 +2,30 @@
 2. View
 3. Template (user interface)
 
-Hey!
+1. Model (database/grabbing data from the user)
+2. View
+3. Template (user interface)
+
+Welcome Page:
+1. Make a Request
+2. Search for Projects
+
+Logged in: 
+Send to Make a Request.
+
+Not logged in:
+Send to log in page.
+
+Make an Account:
+(linked from not logged in page)
+1. Name
+2. College
+3. Year
+4. Employer
+OR
+5. Skills Offered
+
+
+
+
+
