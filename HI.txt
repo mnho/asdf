@@ -25,6 +25,25 @@ Make an Account:
 OR
 5. Skills Offered
 
+Request Form:
+1. Name
+2. College
+3. Category
+4. Description of Request
+5. Compensation
+- Negotiable/non-negotiable
+6. Contact Info
+- Email
+- Phone number
+
+Available Requests:
+(linked from Search for Projects)
+[Categories]
+Category 1 (header)
+- Job 1
+- Job 2
+Repeat.
+
 
 
 
