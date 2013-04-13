@@ -4,5 +4,5 @@ from django.db import models
 class Record(models.Model):
   username =
     models.CharField(max_length=200)
-  icecream =
+  category =
     models.CharField(max_length=200)
